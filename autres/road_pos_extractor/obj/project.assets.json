@@ -376,11 +376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\autres\\road_pos_extractor\\road_pos_extractor.csproj",
+      "projectUniqueName": "C:\\Users\\Greg\\Documents\\Projet_P3\\autres\\road_pos_extractor\\road_pos_extractor.csproj",
       "projectName": "road_pos_extractor",
-      "projectPath": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\autres\\road_pos_extractor\\road_pos_extractor.csproj",
+      "projectPath": "C:\\Users\\Greg\\Documents\\Projet_P3\\autres\\road_pos_extractor\\road_pos_extractor.csproj",
       "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-      "outputPath": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\autres\\road_pos_extractor\\obj\\",
+      "outputPath": "C:\\Users\\Greg\\Documents\\Projet_P3\\autres\\road_pos_extractor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Greg\\AppData\\Roaming\\NuGet\\NuGet.Config",
