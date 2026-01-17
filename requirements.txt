@@ -1,0 +1,10 @@
+tminterface==1.0.2
+tensorflow==2.9.0
+matplotlib==3.10.7
+gymnasium==1.2.1
+PyAutoGUI==0.9.54
+pydirectinput==1.0.4
+numpy==2.2.6
+opencv-python==4.12.0.88
+PyGetWindow==0.0.9
+pywin32==311

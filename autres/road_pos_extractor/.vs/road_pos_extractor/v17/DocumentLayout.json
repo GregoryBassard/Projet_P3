@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\road_pos_extractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C467F-FC9A-4CA5-AEC1-75B3ECE15CD1}|road_pos_extractor.csproj|c:\\he-arc\\modules\\projet p3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\road_pos_extractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C467F-FC9A-4CA5-AEC1-75B3ECE15CD1}|road_pos_extractor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\road_pos_extractor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\road_pos_extractor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T14:37:39.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

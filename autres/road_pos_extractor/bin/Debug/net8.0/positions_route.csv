@@ -1,0 +1,17 @@
+Nom;X;Y;Z;Rotation
+StadiumRoadMainStartLine;560;48;496;0
+StadiumRoadMain;560;48;528;0
+StadiumRoadMain;560;48;560;0
+StadiumRoadMain;560;48;592;0
+StadiumRoadMainGTCurve2;560;48;656;2
+StadiumRoadMain;560;48;624;0
+StadiumRoadMainCheckpoint;624;48;688;3
+StadiumRoadMainGTDiag4x3Mirror;656;48;688;1
+StadiumRoadMainCheckpoint;784;48;752;3
+StadiumRoadMainGTCurve5;816;48;624;1
+StadiumRoadStretch;944;48;592;2
+StadiumRoadMainGTCurve2;912;48;528;0
+StadiumRoadMainCheckpoint;880;48;528;1
+StadiumRoadTiltTransition2Right;816;40;528;1
+StadiumRoadTiltTransition2Left;752;40;528;3
+StadiumRoadMainFinishLine;720;48;528;1

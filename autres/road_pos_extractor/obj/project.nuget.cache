@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Soksjcq7mzOz+LtV+AjAT/6oWt57+IYYGRUwkZO6GfnDT0qZ/f4y8VywvLkKfGUh2D5OhAVSbLQmGcmtO0uL5A==",
+  "success": true,
+  "projectFilePath": "C:\\HE-ARC\\modules\\Projet P3\\your-favorite-games-ai-p3-sa-id-bassard-gregory\\autres\\road_pos_extractor\\road_pos_extractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Greg\\.nuget\\packages\\gbx.net\\2.1.0\\gbx.net.2.1.0.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\gbx.net.lzo\\2.1.2\\gbx.net.lzo.2.1.2.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\nativesharplzo\\0.3.3\\nativesharplzo.0.3.3.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.0\\system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "C:\\Users\\Greg\\.nuget\\packages\\tmessentials\\2.5.0\\tmessentials.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
